@@ -36,7 +36,9 @@ python3 NutriPlan.py
 * Validación de datos.
 * Interfaz gráfica con wxPython.
 
-  # El proyecto alcanza los objetivos definidos para el trabajo práctico. No obstante, se identificaron diversas oportunidades de mejora que podrían implementarse en futuras versiones para ampliar su funcionalidad y escalabilidad.
+  # Mejoras futuras
+  El proyecto alcanza los objetivos definidos para el trabajo práctico. No obstante, se identificaron diversas oportunidades de mejora que podrían implementarse en futuras versiones para ampliar su funcionalidad y escalabilidad.
+
   como por ejemplo:
   - [ ] Generar un menú diferente para cada día de la semana, en lugar de un único menú semanal.
 - [ ] Personalizar las recomendaciones según los datos del usuario (edad, sexo, peso, estatura y objetivo nutricional).
