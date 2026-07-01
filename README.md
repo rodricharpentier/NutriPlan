@@ -36,6 +36,19 @@ python3 NutriPlan.py
 * Validación de datos.
 * Interfaz gráfica con wxPython.
 
+  ## El proyecto alcanza los objetivos definidos para el trabajo práctico. No obstante, se identificaron diversas oportunidades de mejora que podrían implementarse en futuras versiones para ampliar su funcionalidad y escalabilidad.##
+  como por ejemplo:
+  - [ ] Generar un menú diferente para cada día de la semana, en lugar de un único menú semanal.
+- [ ] Personalizar las recomendaciones según los datos del usuario (edad, sexo, peso, estatura y objetivo nutricional).
+- [ ] Rediseñar la interfaz gráfica con una paleta de colores más moderna y una mejor experiencia de usuario.
+- [ ] Implementar botones con bordes redondeados y un diseño más atractivo.
+- [ ] Incorporar imágenes ilustrativas de los menús y alimentos sugeridos.
+- [ ] Agregar una pantalla inicial donde el usuario ingrese sus datos personales (edad, sexo, peso, estatura, etc.) para obtener un plan más preciso.
+- [ ] Permitir la modificación de la dieta generada sin necesidad de reiniciar la aplicación.
+- [ ] Incorporar nuevas categorías de dietas (deportiva, hipocalórica, cetogénica, vegetariana, entre otras).
+- [ ] Exportar el plan alimenticio en formato PDF para facilitar su impresión o almacenamiento.
+- [ ] Implementar persistencia de datos para guardar el historial de dietas generadas.
+
 ---
 
 **Autores:** Francisco Gonzalez, Rodrigo Paz, Nahuel Aguero
